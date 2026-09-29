@@ -1,0 +1,16 @@
+# 核心框架
+playwright
+pytest
+pytest-playwright
+
+# 效率
+pytest-xdist
+pytest-rerunfailures
+
+# 报告
+pytest-html
+allure-pytest
+
+# 数据
+PyYAML
+
